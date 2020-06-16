@@ -17,9 +17,9 @@ Tensorflow + kerasを使って判別しています。
 
 4. 使い方
 
-1. dl.pyでflickrから京王線の画像をダウンロードしてきます。
-2. image_to_db.pyで、画像データからNPZ化します。
-3. nn-keio.pyで、AIに学習させます。
-4. check.pyで、京王線の画像データを判定させます。
+* dl.pyでflickrから京王線の画像をダウンロードしてきます。
+* image_to_db.pyで、画像データからNPZ化します。
+* nn-keio.pyで、AIに学習させます。
+* check.pyで、京王線の画像データを判定させます。
 
 以上
