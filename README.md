@@ -17,6 +17,7 @@ Tensorflow + kerasを使って判別しています。
 
 4. 使い方
 
+* flickrのservices apiに登録して、apikeyとsecretの番号を使います。
 * dl.pyでflickrから京王線の画像をダウンロードしてきます。
 * image_to_db.pyで、画像データからNPZ化します。
 * nn-keio.pyで、AIに学習させます。
